@@ -1,7 +1,7 @@
 Greetings ! My name is Sebastien Hideux
 ========================================================================================================================================
 
-Senior Backend developer & AWS Solutions Architect
+Lead / Senior Backend developer & AWS Solutions Architect
 --------------------------------------------------
 
 * 🌍  I'm based in Aix les bains
