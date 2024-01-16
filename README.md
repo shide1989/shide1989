@@ -10,7 +10,7 @@ Senior Backend developer & AWS Solutions Architect
 * 🚀  I'm currently working at [Blacksmith](https://blacksmith.studio)
 * 🧠  I'm improving my skills on Data Structures & Algorithms, and Rust
 * 🤝  I'm open to collaborating on contract projects
-* ⚡  I'm also a musician, playing in the band (The Erkonauts)[https://www.youtube.com/watch?v=5hwOAUosek8]
+* ⚡  I'm also a musician, playing in the band [The Erkonauts](https://www.youtube.com/watch?v=5hwOAUosek8)
 
 ### Skills
 
