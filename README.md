@@ -5,7 +5,7 @@ Lead / Senior Backend developer & AWS Solutions Architect
 --------------------------------------------------
 
 * 🌍  I'm based in Aix les bains
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sebastien-hideux-3317393b/)
+* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sebastien-hideux-3317393b/) [Malt](https://www.malt.fr/profile/sebastienhideux)
 * ✉️  You can contact me at [contact@sebosss.io](mailto:contact@sebosss.io)
 * 🚀  I'm currently working at [Blacksmith](https://blacksmith.studio)
 * 🧠  I'm improving my skills on Data Structures & Algorithms, and Rust
