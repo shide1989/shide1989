@@ -1,4 +1,4 @@
-Greetings ! My name is Sebastien Hideux
+Hi ! I'm Sebastien
 ========================================================================================================================================
 
 Lead / Senior Backend developer & AWS Solutions Architect
@@ -7,9 +7,9 @@ Lead / Senior Backend developer & AWS Solutions Architect
 * 🌍  I'm based in Aix les bains
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sebastien-hideux-3317393b/) [Malt](https://www.malt.fr/profile/sebastienhideux)
 * ✉️  You can contact me at [contact@sebosss.io](mailto:contact@sebosss.io)
-* 🚀  I'm currently working at [Blacksmith](https://blacksmith.studio)
-* 🧠  I'm improving my skills on Data Structures & Algorithms, and Rust
-* 🤝  I'm open to collaborating on contract projects
+* 🚀  I'm currently working at [Blacksmith](https://blacksmith.studio) and [Greenscope](https://fr.greenscope.io)
+* 🧠  I'm constantly learning and developing new skills in AI
+* 🤝  I'm open to collaborating on contract projects and taking a permanent position
 * ⚡  I'm also a musician, playing in the band [The Erkonauts](https://www.youtube.com/watch?v=5hwOAUosek8)
 
 ### Skills
