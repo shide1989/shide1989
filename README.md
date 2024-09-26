@@ -6,7 +6,7 @@ Lead software engineer & AWS Solutions Architect
 * ✉️  You can contact me at [contact@sebosss.io](mailto:contact@sebosss.io)
 * 🚀  I'm currently working at [2501 AI](https://www.2501.ai/)
 * 🧠  I'm constantly learning and developing new skills
-* 🤝  I'm open to collaborating on contract projects
+* 🤝  I'm open to collaboration
 * ⚡  I'm also a musician, playing in the band [The Erkonauts](https://www.youtube.com/watch?v=5hwOAUosek8)
 
 ### Skills
