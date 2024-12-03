@@ -25,8 +25,8 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Basic_Toolset-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/achievement/97873/path/9)
 
 ### Online Courses Taken
-* 🎓 Harvard EDX - [CS50's Introduction to Artificial Intelligence with Python](https://harvard.edu/courses/cs50s-introduction-artificial-intelligence-python)
-* 🌐 Web3 Foundation EDX: [Introduction to Blockchain and Web3](https://courses.edx.org/certificates/b4263fe808cb4b6da27567d69a489f8a)
+* 🎓 Harvard EDX - [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+* 🌐 Web3 Foundation EDX: [Introduction to Blockchain and Web3](https://courses.edx.org/certificates/b425f6e805b54b6da275e7bf95a4898e)
 
 ## 🔭 Current Focus
 * 🤖 Building production-grade LLM solutions at [2501 AI](https://www.2501.ai)
