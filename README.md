@@ -2,7 +2,7 @@
 
 ## 🧑🏽‍💻 About Me
 
-* 🌍  I'm based in France (Aix les bains), I speak French (native) and English (fluent)
+* 🌍  I'm based in France, I speak French (native) and English (fluent)
 * 🎯 Lead Software Engineer & Cloud Architect at [2501 AI](https://www.2501.ai), focused on building innovative AI solutions
 * 🎓 Passionate about AI/ML, Cloud Architecture, and Blockchain technologies
 * 🧠  I'm constantly learning and developing new skills
