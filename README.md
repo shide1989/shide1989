@@ -2,10 +2,10 @@
 
 ## 🧑🏽‍💻 About Me
 
-* 🌍  I'm based in France, I speak French (native) and English (fluent)
+* 🌍 Based in France
 * 🎯 Lead Software Engineer & Cloud Architect at [2501 AI](https://www.2501.ai), focused on building innovative AI solutions
 * 🎓 Passionate about AI/ML, Cloud Architecture, and Blockchain technologies
-* 🧠  I'm constantly learning and developing new skills
+* 🧠 Constantly learning and developing new skills
 * ⚡  Musician, toured world-wide in the band [The Erkonauts](https://www.youtube.com/watch?v=5hwOAUosek8)
 
 ## 🛠️ Technical Expertise & Skills
