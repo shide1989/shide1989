@@ -27,12 +27,3 @@
 ## 📊 My Stats
 | <a href="https://github.com/shide1989" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shide1989&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages" alt="Top Languages" /></a>      | ![Shide1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=shide1989&show_icons=true&theme=transparent&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2) |
 | :----: | :----:  |
-
-## 🌐 Languages
-![French](https://img.shields.io/badge/French-Native-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cGF0aCBmaWxsPSIjRUQyOTM5IiBkPSJNMCAwaDkwMHY2MDBIMHoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMCAwaDYwMHY2MDBIMHoiLz48cGF0aCBmaWxsPSIjMDAyMzk1IiBkPSJNMCAwaDMwMHY2MDBIMHoiLz48L3N2Zz4=)
-![English](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjM1IDY1MCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPg0KPGRlZnM+DQo8ZyBpZD0idW5pb24iPg0KPHVzZSB5PSItLjIiIHhsaW5rOmhyZWY9IiNYIi8+DQo8dXNlIHhsaW5rOmhyZWY9IiNYIi8+DQo8dXNlIHk9Ii4yIiB4bGluazpocmVmPSIjWCIvPg0KPC9nPg0KPGcgaWQ9IlgiPg0KPGcgaWQ9IngiPg0KPHVzZSB4bGluazpocmVmPSIjcyIvPg0KPHVzZSB5PSIuMSIgeGxpbms6aHJlZj0iI3MiLz4NCjx1c2UgeT0iLS4xIiB4bGluazpocmVmPSIjcyIvPg0KPC9nPg0KPHVzZSB4PSIuMiIgeGxpbms6aHJlZj0iI3giLz4NCjwvZz4NCjxwYXRoIGZpbGw9IiNmZmYiIGlkPSJzIiBkPSJNMCwwIHYuNSBMMS0uNSBoLjUiLz4NCjwvZGVmcz4NCjxwYXRoIGZpbGw9IiMwMDI4NjgiIGQ9Im0wLDBoMTIzNXY2NTBIMHoiLz4NCjxwYXRoIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxMDAiIGQ9Im0wLDBoMTIzNXY2NTBIMHoiLz4NCjxwYXRoIHN0cm9rZT0iI2NmMTQyYiIgc3Ryb2tlLXdpZHRoPSI2MCIgZD0ibTAsMGgxMjM1djY1MEgweiIvPg0KPHVzZSB4bGluazpocmVmPSIjdW5pb24iLz4NCjwvc3ZnPg==)
-
-## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sebastien-hideux-3317393b)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/1667822/sebastien-h)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sebosss.io)
